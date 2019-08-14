@@ -1,1 +1,1 @@
-This program allows vehicles to detect lines and follow them using OpenCV libraries. To operate properly, different implementations would be necessary for different weather conditions.
+The order of the methods written in the main program is the order through which the necessary filtering is achieved to detect lane lines. Utilizing machine learning is another option for detecting lines and is more apropriate for large scale deployment, however with OpenCV quality results can be achieved for the base case.
